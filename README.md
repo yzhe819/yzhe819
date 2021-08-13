@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with [Database System Concepts](https://link.zhihu.com/?target=https%3A//www.db-book.com/db7/index.html) and [CMU 15-445/645](https://15445.courses.cs.cmu.edu/fall2020/)
 - ⚡ Fun fact: I’m currently trying to following MIT 6.828 to write a simple OS kernel
 - 📫 How to reach me: [Bilibili](https://space.bilibili.com/81079806)
-- 🏃‍♂️：老二次元 + 中二病了
+- 🏃‍♂️：老二次元 + 中二病了 + 前端见习骑士 + 讨厌茄子
 
