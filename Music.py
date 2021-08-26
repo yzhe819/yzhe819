@@ -51,8 +51,9 @@ def getSongData(uid, song_type = 1):
     return song_data
 
 argv = sys.argv
-uid  = '136164194'
+uid  = '100000000'
 song_type = 1
+
 del argv[0]
 if len(argv)>=1:
     uid = argv[0]
@@ -64,10 +65,10 @@ if len(argv)>=1:
 
 songs = getSongData(uid=uid, song_type=int(song_type))
 songs = songs[:5]
-i = 0
+i = 1
 text = ""
 for song in songs:
-    text += "%i. 🌈%s\n" % (i, song['song'])
+    text += "%i. %s\n" % (i, song['song'])
     i += 1
 
 with open('README.md', 'r', encoding='utf-8') as f:
