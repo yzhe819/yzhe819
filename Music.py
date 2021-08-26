@@ -70,7 +70,7 @@ for song in songs:
     text += "%i. 🌈%s\n" % (i, song['song'])
     i += 1
 
-with open('README-base.md', 'r', encoding='utf-8') as f:
+with open('README.md', 'r', encoding='utf-8') as f:
     content = f.read()
     new_content = content.replace("{song_list}" , text)
     with open("README.md", 'w+', encoding='utf-8') as new_f:
