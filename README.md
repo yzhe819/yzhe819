@@ -11,6 +11,8 @@
 - 🌟 Trying to use GitHub Action and Wakatime
 - 🔑 **[中立 善良]** + 老二次元 + 老中二病了 + 前端學徒 + 膜法師 + 動物親和
 
+
+
 #### 📝 Weekly development breakdown
 
 <!--START_SECTION:waka-->
@@ -21,3 +23,10 @@ JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░
 Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 <!--END_SECTION:waka-->
+
+
+
+#### 🎶  My top five favorite songs of the week
+
+{song_list}
+
