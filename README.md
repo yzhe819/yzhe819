@@ -27,12 +27,3 @@ JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░
 
 
 
-#### 🎶  My top five favorite songs of the week
-
-0. 🌈#BrooklynBloodPop! - syko
-1. 🌈STAY - The Kid LAROI/Justin Bieber
-2. 🌈春色トビラ - 3L
-3. 🌈RGB - YOASOBI
-4. 🌈Hopes and Dreams (From "Undertale") - Jenny/Vgr
-
-
