@@ -18,13 +18,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 September, 2021 - 24 September, 2021
+Week: 19 September, 2021 - 25 September, 2021
 
-Java         13 hrs 8 mins   ████████████░░░░░░░░░░░░░   47.65 % 
-Vue.js       10 hrs 20 mins  █████████▒░░░░░░░░░░░░░░░   37.45 % 
-JavaScript   1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Python       42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-JSON         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Java         10 hrs 16 mins  ██████████▓░░░░░░░░░░░░░░   42.94 % 
+Vue.js       9 hrs 34 mins   ██████████░░░░░░░░░░░░░░░   40.05 % 
+JavaScript   1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Python       42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+JSON         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 ```
 <!--END_SECTION:waka-->
 
