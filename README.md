@@ -18,13 +18,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 October, 2021 - 30 October, 2021
+Week: 25 October, 2021 - 31 October, 2021
 
-JavaScript   2 hrs 48 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.15 % 
-Python       2 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Vue.js       2 hrs 1 min     █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-JSON         1 hr 20 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-TypeScript   48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+JavaScript   2 hrs 48 mins   ████████░░░░░░░░░░░░░░░░░   31.79 % 
+Vue.js       1 hr 48 mins    █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+JSON         1 hr 20 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Python       55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+TypeScript   48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
 ```
 <!--END_SECTION:waka-->
 
