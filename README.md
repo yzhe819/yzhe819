@@ -18,7 +18,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 December, 2021 - 12 December, 2021
+Week: 07 December, 2021 - 13 December, 2021
 
 TypeScript   27 hrs 46 mins  █████████████████████░░░░   83.75 % 
 Vue.js       4 hrs 17 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 % 
