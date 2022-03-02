@@ -19,14 +19,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 February 2022 - To: 28 February 2022
+From: 22 February 2022 - To: 01 March 2022
 
-Dart         7 hrs           █████████▓░░░░░░░░░░░░░░░   38.96 %
-Vue.js       6 hrs 5 mins    ████████▒░░░░░░░░░░░░░░░░   33.82 %
-YAML         1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
-TypeScript   1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-Markdown     47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-JavaScript   34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Vue.js       8 hrs 5 mins    ██████████▒░░░░░░░░░░░░░░   41.95 %
+Dart         7 hrs           █████████░░░░░░░░░░░░░░░░   36.32 %
+YAML         1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+Markdown     47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+JavaScript   34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+TypeScript   29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 ```
 
 <!--END_SECTION:waka-->
