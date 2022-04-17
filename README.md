@@ -10,7 +10,7 @@
 - 📫 Connect? let's get social 👉 yzhe819@rss3.io
 - :scroll: Some studying notes are saved in my blog :space_invader: [yzhe819.github.io](https://yzhe819.github.io/)
 - 🌟 Trying to use GitHub Action and Gist
-- 🔑 <ruby>[中立 善良]<rp>（</rp><rt>Neutral Good</rt><rp>）</rp></ruby> + 老二次元 + 老中二病了 + <ruby>膜法師<rp>（</rp><rt>+1s</rt><rp>）</rp></ruby> + <ruby>延長壽命<rp>（</rp><rt>Extended Lifespan</rt><rp>）</rp></ruby> + 動物親和 + <ruby>共產主義<rp>（</rp><rt>Communism</rt><rp>）</rp></ruby>
+- 🔑 <ruby>[中立 善良]<rp>（</rp><rt>Neutral Good</rt><rp>）</rp></ruby> + 老二次元 + 老中二病了 + <ruby>膜法師<rp>（</rp><rt>+1s</rt><rp>）</rp></ruby> +  <ruby>共產主義<rp>（</rp><rt>Communism</rt><rp>）</rp></ruby> + 電子陽痿 + <ruby>嘉心糖<rp>（</rp><rt>嘉晚飯</rt><rp>）</rp></ruby> + 软工民科
 
 
 
