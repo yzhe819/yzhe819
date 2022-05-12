@@ -19,14 +19,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 May 2022 - To: 10 May 2022
+From: 04 May 2022 - To: 11 May 2022
 
-C             12 hrs 29 mins  ██████████░░░░░░░░░░░░░░░   39.46 %
-TypeScript    9 hrs 7 mins    ███████▒░░░░░░░░░░░░░░░░░   28.79 %
-Java          4 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
-JavaScript    2 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+TypeScript    10 hrs 24 mins  ████████▒░░░░░░░░░░░░░░░░   32.93 %
+C             9 hrs 57 mins   ████████░░░░░░░░░░░░░░░░░   31.51 %
+JavaScript    3 hrs 59 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
+Java          3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
 YAML          1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Markdown      52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Markdown      52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
