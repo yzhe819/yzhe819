@@ -17,14 +17,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 May 2022 - To: 07 June 2022
+From: 01 June 2022 - To: 08 June 2022
 
-Java             11 hrs 32 mins  ██████████░░░░░░░░░░░░░░░   40.30 %
-JavaScript       7 hrs 47 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.19 %
-HTML             2 hrs 58 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-Gherkin          2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
-Markdown         1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-TypeScript       53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+JavaScript       10 hrs 58 mins  ███████▒░░░░░░░░░░░░░░░░░   29.27 %
+Java             10 hrs 31 mins  ███████░░░░░░░░░░░░░░░░░░   28.05 %
+JSON             3 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
+HTML             3 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+Markdown         2 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+Gherkin          2 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
 ```
 
 <!--END_SECTION:waka-->
