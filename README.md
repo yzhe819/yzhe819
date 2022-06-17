@@ -4,7 +4,7 @@
 
 - :hammer_and_pick: C/Java/Dart/JavaScript/Python, a litter bit Assembly
 - :pencil2: Working with [Natural Selection Labs](https://github.com/NaturalSelectionLabs)
-- 📦 Following [MIT 6.828](https://pdos.csail.mit.edu/6.828/2018/overview.html) to write a simple operating system kernel
+- 📦 Following [MIT 6.S081](https://pdos.csail.mit.edu/6.S081/2020/) to write a simple operating system kernel
 - 🧪 Interested in [CMU 15-445/645](https://15445.courses.cs.cmu.edu/fall2020/) course
 - 📫 Connect? 👉 yzhe819@rss3.io
 - 🌟 Try writing a Git
