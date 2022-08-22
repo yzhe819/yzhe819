@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 August 2022 - To: 19 August 2022
+From: 14 August 2022 - To: 21 August 2022
 
-JavaScript   1 hr 1 min      ███████████████░░░░░░░░░░   59.72 %
-TypeScript   29 mins         ███████▒░░░░░░░░░░░░░░░░░   28.84 %
-JSON         10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+JavaScript   1 hr 1 min      ███████████████░░░░░░░░░░   59.88 %
+TypeScript   29 mins         ███████░░░░░░░░░░░░░░░░░░   28.66 %
+JSON         10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
 Java         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
