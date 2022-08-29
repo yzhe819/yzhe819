@@ -14,9 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 August 2022 - To: 27 August 2022
+From: 21 August 2022 - To: 28 August 2022
 
-TeX   3 mins          █████████████████████████   100.00 %
+Other   3 hrs 35 mins   ██████████████▒░░░░░░░░░░   57.31 %
 ```
 
 <!--END_SECTION:waka-->
