@@ -13,14 +13,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 September 2022 - To: 23 September 2022
+From: 18 September 2022 - To: 25 September 2022
 
-TypeScript   11 hrs 48 mins  ██████████████████░░░░░░░   71.53 %
-Dart         3 hrs 24 mins   █████░░░░░░░░░░░░░░░░░░░░   20.62 %
-JSON         49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-JavaScript   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Properties   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+TypeScript   14 hrs 36 mins  ███████████████████░░░░░░   76.61 %
+Dart         3 hrs 30 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.39 %
+JSON         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+JavaScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+YAML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Properties   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
