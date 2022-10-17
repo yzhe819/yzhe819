@@ -13,13 +13,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 October 2022 - To: 15 October 2022
+From: 09 October 2022 - To: 16 October 2022
 
-Dart         2 hrs 40 mins   █████████████████████░░░░   84.29 %
-TypeScript   18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
-Groovy       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-YAML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Dart         2 hrs 20 mins   ███████████████████░░░░░░   75.36 %
+Markdown     28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
+Groovy       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+YAML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+TypeScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
